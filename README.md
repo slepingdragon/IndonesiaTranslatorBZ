@@ -1,0 +1,2 @@
+# IndonesiaTranslatorBZ
+Translate Indonesian :)
